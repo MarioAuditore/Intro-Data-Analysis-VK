@@ -1,1 +1,1 @@
-Very sime series on VK group shares
+Very simple time series analysis on VK group shares
