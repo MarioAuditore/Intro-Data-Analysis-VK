@@ -1,1 +1,1 @@
-Very simple time series analysis on VK group shares
+Time series analysis on VK group shares
