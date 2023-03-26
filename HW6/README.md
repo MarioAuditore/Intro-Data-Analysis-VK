@@ -1,1 +1,1 @@
-Some simple scipy.stats tasks
+Scipy.stats tasks
